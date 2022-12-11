@@ -26,4 +26,7 @@ const func = (num) => {
     * [IELTS Band 7+ Complete Prep Course](https://www.udemy.com/course/ielts-band-7-preparation-course/)
     * [IT Recruiter lectures](https://www.youtube.com/@techrecruitmentitcareerswi3264) 
     * [IT Course](https://pritula.academy/senior)
-    
+## Languages 
+* **English** - B2-C1
+* **German** - B1-B2
+* **Russian** - Native
